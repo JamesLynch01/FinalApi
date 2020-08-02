@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XCiC0pa8D27n1DpLwRIUhirXaP5k9ias3jqYCAjMKmHGRMuklc0k7gbcYSDPCHztV2DBrtsYKWmh5fmlHvLruQ==",
+  "dgSpecHash": "17/cuyy2/SEMt7AOKYPITg/u97MZ5eCVpWXlPDnnwHR3aA1FhCbtNRmpWKazB1kArnTXkMcgSKmWnZikDq7Ibw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.data.sqlite.core\\2.2.0\\microsoft.data.sqlite.core.2.2.0.nupkg.sha512",

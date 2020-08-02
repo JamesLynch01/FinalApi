@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DHRH9Ie+YB5boO7KQWhdRhM5E9Tike0C3fEGq4aPKMw2L9tm0dWEOQgs67PZTspvPcg4g7R2lGJUb2EImnIOg==",
+  "dgSpecHash": "/Rtux5gkRruPpslbdKzHgMhcD6TFRAJK1LqAIkQ0NeANXh8B/rKyH7DFy/ocNFpn0ZdkRx5XIcX3efYV7K6ujA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\FilmRater.csproj",
+  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\FilmRater.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

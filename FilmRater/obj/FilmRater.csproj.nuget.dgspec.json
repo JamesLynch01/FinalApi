@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\FilmRater.csproj": {}
+    "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\FilmRater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj": {
+    "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj",
         "projectName": "FilmRater.Core",
-        "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj": {
+    "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
         "projectName": "FilmRater.Infrastructure",
-        "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj": {
-                "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj"
+              "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj": {
+                "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\FilmRater.csproj": {
+    "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\FilmRater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\FilmRater.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\FilmRater.csproj",
         "projectName": "FilmRater",
-        "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\FilmRater.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\FilmRater.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -162,11 +162,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj": {
-                "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj"
+              "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj": {
+                "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj"
               },
-              "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj"
+              "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Infrastructure\\FilmRater.Infrastructure.csproj"
               }
             }
           }

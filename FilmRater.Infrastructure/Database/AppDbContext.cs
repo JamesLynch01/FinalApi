@@ -13,7 +13,7 @@ namespace FilmRater.Infrastructure.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder myBuilder)
         {
-            myBuilder.UseSqlite("Data Source=Entrainment.db");
+            myBuilder.UseSqlite("Data Source=../FilmRater.Infrastructure/Entrainment.db");
         }
 
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ks8W0le9lXethcZoE+tsWpePj1Rf4+QESO0/VCJuf8s9RCYGfLCsjA0PYmZiaau4XghquQVggrBBGSiBPiCQtQ==",
+  "dgSpecHash": "NzvAM828oxZnhVi86wrF6ys9fsu840+mvfAMB3fFBc4R0TdRky7W6IzaWmcDYEnp06Y1wgBF2cXqLnzHgGplyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalAPI\\FilmRater.Core\\FilmRater.Core.csproj",
+  "projectFilePath": "C:\\Users\\james\\source\\repos\\FinalApi\\FilmRater.Core\\FilmRater.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
