@@ -1,0 +1,9 @@
+C:\Users\james\source\repos\FilmRater.Core\bin\Debug\netcoreapp2.2\FilmRater.Core.deps.json
+C:\Users\james\source\repos\FilmRater.Core\bin\Debug\netcoreapp2.2\FilmRater.Core.dll
+C:\Users\james\source\repos\FilmRater.Core\bin\Debug\netcoreapp2.2\FilmRater.Core.pdb
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.csprojAssemblyReference.cache
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.AssemblyInfo.cs
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.dll
+C:\Users\james\source\repos\FilmRater.Core\obj\Debug\netcoreapp2.2\FilmRater.Core.pdb

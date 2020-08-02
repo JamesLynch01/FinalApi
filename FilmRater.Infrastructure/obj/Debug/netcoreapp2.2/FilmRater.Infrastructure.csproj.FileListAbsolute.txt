@@ -1,0 +1,15 @@
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Infrastructure.deps.json
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Infrastructure.runtimeconfig.json
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Infrastructure.runtimeconfig.dev.json
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Infrastructure.dll
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Infrastructure.pdb
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Core.dll
+C:\Users\james\source\repos\FilmRater.Infrastructure\bin\Debug\netcoreapp2.2\FilmRater.Core.pdb
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.csprojAssemblyReference.cache
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.AssemblyInfo.cs
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.csproj.CopyComplete
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.dll
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.pdb
+C:\Users\james\source\repos\FilmRater.Infrastructure\obj\Debug\netcoreapp2.2\FilmRater.Infrastructure.genruntimeconfig.cache
