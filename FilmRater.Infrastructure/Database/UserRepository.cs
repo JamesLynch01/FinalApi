@@ -19,6 +19,7 @@ namespace FilmRater.Infrastructure.Database
         public User Add(User user)
         {
             _dbContext.Add(user);
+            _dbContext.SaveChanges();
             return user;
         }
 

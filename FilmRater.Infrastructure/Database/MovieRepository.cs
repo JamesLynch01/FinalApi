@@ -20,6 +20,7 @@ namespace FilmRater.Infrastructure.Database
         public Movie Add(Movie movie)
         {
             _dbContext.Add(movie);
+            _dbContext.SaveChanges();
             return movie;
         }
 
