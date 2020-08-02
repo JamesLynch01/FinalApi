@@ -46,7 +46,7 @@ namespace FilmRater.Infrastructure.Database
         {
             var currentUser = _dbContext.Users.Find(user.id);
             if (currentUser == null) return null;
-
+            _dbContext.Entry(currentUser).CurrentValues.SetValues(user);
             _dbContext.Users.Update(currentUser);
             _dbContext.SaveChanges();
             return currentUser;

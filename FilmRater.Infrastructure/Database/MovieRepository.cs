@@ -32,12 +32,15 @@ namespace FilmRater.Infrastructure.Database
 
         public IEnumerable<Movie> GetAll()
         {
-            return _dbContext.Movies;
+            return _dbContext.Movies
+                .Include(m => m.User);
         }
 
         public IEnumerable<Movie> GetMovieForUser(int id)
         {
-            return _dbContext.Movies.Where(m => m.UserId == id);
+            return _dbContext.Movies
+                .Include(m => m.User)
+                .Where(m => m.UserId == id);
         }
 
 
@@ -51,7 +54,7 @@ namespace FilmRater.Infrastructure.Database
         {
             var currentMovie = _dbContext.Movies.Find(movie.Id);
             if (currentMovie == null) return null;
-
+            _dbContext.Entry(currentMovie).CurrentValues.SetValues(movie);
             _dbContext.Movies.Update(currentMovie);
             _dbContext.SaveChanges();
             return currentMovie;
